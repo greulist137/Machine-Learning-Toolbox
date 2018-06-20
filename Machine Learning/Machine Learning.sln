@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Machine Learning", "Machine Learning\Machine Learning.csproj", "{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Debug|ARM.Build.0 = Debug|ARM
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Debug|ARM.Deploy.0 = Debug|ARM
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Debug|x64.ActiveCfg = Debug|x64
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Debug|x64.Build.0 = Debug|x64
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Debug|x64.Deploy.0 = Debug|x64
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Debug|x86.ActiveCfg = Debug|x86
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Debug|x86.Build.0 = Debug|x86
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Debug|x86.Deploy.0 = Debug|x86
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Release|ARM.ActiveCfg = Release|ARM
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Release|ARM.Build.0 = Release|ARM
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Release|ARM.Deploy.0 = Release|ARM
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Release|x64.ActiveCfg = Release|x64
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Release|x64.Build.0 = Release|x64
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Release|x64.Deploy.0 = Release|x64
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Release|x86.ActiveCfg = Release|x86
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Release|x86.Build.0 = Release|x86
+		{2AEB9F70-41D2-4BAF-8089-30AC78FB21FF}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F53D5FD-801A-49DC-87B6-B409EE6D14A5}
+	EndGlobalSection
+EndGlobal
