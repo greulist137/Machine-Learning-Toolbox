@@ -26,5 +26,14 @@ namespace Machine_Learning
         {
             this.InitializeComponent();
         }
+
+        private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ComboBox.Items.Add("y = x^2 ");
+            comboBox.Items.Add("y = x^3 ");
+            comboBox.Items.Add("y = |x|");
+            comboBox.Items.Add("y = √x ");
+            comboBox.Items.Add("y = 1/x ");
+        }
     }
 }
