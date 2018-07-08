@@ -11,9 +11,11 @@
     <Grid>
         <Button Content="Browse" HorizontalAlignment="Left" Margin="514,127,0,0" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Margin="263,127,0,0" Text="" VerticalAlignment="Top" Width="222"/>
-        <TextBlock HorizontalAlignment="Left" Margin="307,70,0,0" Text="Select a Data Source" TextWrapping="Wrap" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="277,209,0,0" Text="Select a Machine Learning Style" TextWrapping="Wrap" VerticalAlignment="Top"/>
-        <ComboBox HorizontalAlignment="Left" Margin="336,268,0,0" VerticalAlignment="Top" SelectionChanged="ComboBox_SelectionChanged"/>
+        <ComboBox HorizontalAlignment="Left" Margin="342,262,0,0" VerticalAlignment="Top" SelectionChanged="ComboBox_SelectionChanged"/>
+        <Button Content="Calculate" HorizontalAlignment="Left" Margin="514,535,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="342,376,0,0" VerticalAlignment="Top" SelectionChanged="ComboBox_SelectionChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="277,323,0,0" Text="Select a Machine Learning Type" TextWrapping="Wrap" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>
